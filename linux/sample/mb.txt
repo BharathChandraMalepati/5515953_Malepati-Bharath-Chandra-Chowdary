@@ -1,0 +1,5 @@
+101 | vishal | MD | 50000
+100 | kamal | AD | 45000
+104 | gurav | SD | 60000
+103 | karthik | JD | 40000
+105 | subhash | Trainee | 25000

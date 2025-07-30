@@ -1,0 +1,5 @@
+100 bharath 2000
+50 ganesh 1000
+1000 sathwik 5000
+200 ani 3000
+350 juvva 1000000
